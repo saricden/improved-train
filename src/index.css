@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#ARButton {
+  background: #000 !important;
+  color: #FFF !important;
+}
